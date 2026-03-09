@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "923345072334",
+    "project_id": "ubercarlos-594de",
+    "storage_bucket": "ubercarlos-594de.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923345072334:android:0bc1509ad980c8d631609f",
+        "android_client_info": {
+          "package_name": "com.example.uber_carlos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923345072334-5l5pr4jhk0prvq46492i35qe6kaonej7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber_carlos",
+            "certificate_hash": "ae3cb3dc9acc021e8ea50567a64581643947580a"
+          }
+        },
+        {
+          "client_id": "923345072334-kb1alb0bnvmuui7fdhdehlap6pl87se1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJX7dVeaWgM_YLDjGzINCE6_kggMk9jU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923345072334-kb1alb0bnvmuui7fdhdehlap6pl87se1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
